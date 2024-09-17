@@ -1,3 +1,1 @@
-"# compling-master-1stsemester" 
-# compling-master-1stsemester
-# compling-master-1stsemester
+'Репозиторий для курса "Основы программирования", магистратура 1 курс'
